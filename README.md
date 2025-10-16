@@ -32,9 +32,7 @@ It determines how the controller should react to bring the process closer to the
 The **Proportional** term reacts immediately to the error value to reduce the gap between the process value and the set point.
 
 **Formula:**
-\[
-P = K_p \times \text{Error}
-\]
+Kp * Error
 
 **Example:**
 Kp = 20
